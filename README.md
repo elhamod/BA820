@@ -1,4 +1,4 @@
 # BA820 - Unsupervised and Unstructured Machine Learning
-## Spring 2024
+## Spring 2025
 
 
