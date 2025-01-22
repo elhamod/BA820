@@ -161,4 +161,4 @@ cython_debug/
 
 
 # temp notebooks
-Hands-on\01-association-rules\association_rules.ipynb
+Hands-on/01-association-rules/association_rules.ipynb
