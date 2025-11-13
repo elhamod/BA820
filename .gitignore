@@ -161,10 +161,4 @@ cython_debug/
 
 
 # temp notebooks
-# Hands-on/01-association-rules/association_rules.ipynb
-# Hands-on/02-clustering/Clustering_California_Housing.ipynb
-# Hands-on/02-clustering/Clustering_Synthetic_Data.ipynb
-Hands-on/regensburg_pediatric_appendicitis.ipynb
-Hands-on/Spotify_Track_Dataset.ipynb
-Hands-on/04-text-mining/Topic_modeling.ipynb
-Hands-on/04-text-mining/Sentiment_analysis.ipynb
+
